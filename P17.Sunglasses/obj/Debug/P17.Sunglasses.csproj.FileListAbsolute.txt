@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P17.Sunglasses\bin\Debug\P17.Sunglasses.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P17.Sunglasses\obj\Debug\P17.Sunglasses.csprojResolveAssemblyReference.cache
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P17.Sunglasses\bin\Debug\P17.Sunglasses.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P17.Sunglasses\bin\Debug\P17.Sunglasses.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P17.Sunglasses\obj\Debug\P17.Sunglasses.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P17.Sunglasses\obj\Debug\P17.Sunglasses.pdb

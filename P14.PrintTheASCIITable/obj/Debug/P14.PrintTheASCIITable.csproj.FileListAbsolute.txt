@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P14.PrintTheASCIITable\bin\Debug\P14.PrintTheASCIITable.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P14.PrintTheASCIITable\bin\Debug\P14.PrintTheASCIITable.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P14.PrintTheASCIITable\bin\Debug\P14.PrintTheASCIITable.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P14.PrintTheASCIITable\obj\Debug\P14.PrintTheASCIITable.csprojResolveAssemblyReference.cache
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P14.PrintTheASCIITable\obj\Debug\P14.PrintTheASCIITable.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P14.PrintTheASCIITable\obj\Debug\P14.PrintTheASCIITable.pdb

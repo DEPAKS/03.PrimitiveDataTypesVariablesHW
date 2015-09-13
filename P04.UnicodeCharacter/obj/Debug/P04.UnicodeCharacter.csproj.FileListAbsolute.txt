@@ -1,0 +1,5 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P04.UnicodeCharacter\bin\Debug\P04.UnicodeCharacter.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P04.UnicodeCharacter\bin\Debug\P04.UnicodeCharacter.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P04.UnicodeCharacter\bin\Debug\P04.UnicodeCharacter.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P04.UnicodeCharacter\obj\Debug\P04.UnicodeCharacter.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P04.UnicodeCharacter\obj\Debug\P04.UnicodeCharacter.pdb

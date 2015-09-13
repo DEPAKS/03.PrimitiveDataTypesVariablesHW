@@ -1,0 +1,5 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P19.BitsInverter\bin\Debug\P19.BitsInverter.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P19.BitsInverter\bin\Debug\P19.BitsInverter.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P19.BitsInverter\bin\Debug\P19.BitsInverter.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P19.BitsInverter\obj\Debug\P19.BitsInverter.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P19.BitsInverter\obj\Debug\P19.BitsInverter.pdb

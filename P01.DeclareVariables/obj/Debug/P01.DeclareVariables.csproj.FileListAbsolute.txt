@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P01.DeclareVariables\bin\Debug\P01.DeclareVariables.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P01.DeclareVariables\bin\Debug\P01.DeclareVariables.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P01.DeclareVariables\bin\Debug\P01.DeclareVariables.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P01.DeclareVariables\obj\Debug\P01.DeclareVariables.csprojResolveAssemblyReference.cache
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P01.DeclareVariables\obj\Debug\P01.DeclareVariables.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P01.DeclareVariables\obj\Debug\P01.DeclareVariables.pdb

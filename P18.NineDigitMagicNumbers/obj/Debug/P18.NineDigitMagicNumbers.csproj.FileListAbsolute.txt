@@ -1,0 +1,5 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P18.NineDigitMagicNumbers\bin\Debug\P18.NineDigitMagicNumbers.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P18.NineDigitMagicNumbers\bin\Debug\P18.NineDigitMagicNumbers.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P18.NineDigitMagicNumbers\bin\Debug\P18.NineDigitMagicNumbers.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P18.NineDigitMagicNumbers\obj\Debug\P18.NineDigitMagicNumbers.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P18.NineDigitMagicNumbers\obj\Debug\P18.NineDigitMagicNumbers.pdb

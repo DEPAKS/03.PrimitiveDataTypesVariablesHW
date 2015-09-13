@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P03.VariableInHexadecimalFormat\bin\Debug\P03.VariableInHexadecimalFormat.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P03.VariableInHexadecimalFormat\bin\Debug\P03.VariableInHexadecimalFormat.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P03.VariableInHexadecimalFormat\bin\Debug\P03.VariableInHexadecimalFormat.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P03.VariableInHexadecimalFormat\obj\Debug\P03.VariableInHexadecimalFormat.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P03.VariableInHexadecimalFormat\obj\Debug\P03.VariableInHexadecimalFormat.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P03.VariableInHexadecimalFormat\obj\Debug\P03.VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P02.FloatOrDouble\bin\Debug\P02.FloatOrDouble.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P02.FloatOrDouble\bin\Debug\P02.FloatOrDouble.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P02.FloatOrDouble\bin\Debug\P02.FloatOrDouble.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P02.FloatOrDouble\obj\Debug\P02.FloatOrDouble.csprojResolveAssemblyReference.cache
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P02.FloatOrDouble\obj\Debug\P02.FloatOrDouble.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P02.FloatOrDouble\obj\Debug\P02.FloatOrDouble.pdb

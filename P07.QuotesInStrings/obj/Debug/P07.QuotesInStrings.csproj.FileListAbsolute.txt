@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P07.QuotesInStrings\bin\Debug\P07.QuotesInStrings.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P07.QuotesInStrings\bin\Debug\P07.QuotesInStrings.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P07.QuotesInStrings\bin\Debug\P07.QuotesInStrings.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P07.QuotesInStrings\obj\Debug\P07.QuotesInStrings.csprojResolveAssemblyReference.cache
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P07.QuotesInStrings\obj\Debug\P07.QuotesInStrings.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P07.QuotesInStrings\obj\Debug\P07.QuotesInStrings.pdb

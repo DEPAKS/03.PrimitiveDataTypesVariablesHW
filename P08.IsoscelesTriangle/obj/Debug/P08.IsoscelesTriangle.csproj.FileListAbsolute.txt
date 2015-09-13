@@ -1,0 +1,5 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P08.IsoscelesTriangle\bin\Debug\P08.IsoscelesTriangle.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P08.IsoscelesTriangle\bin\Debug\P08.IsoscelesTriangle.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P08.IsoscelesTriangle\bin\Debug\P08.IsoscelesTriangle.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P08.IsoscelesTriangle\obj\Debug\P08.IsoscelesTriangle.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P08.IsoscelesTriangle\obj\Debug\P08.IsoscelesTriangle.pdb

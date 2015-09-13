@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P15.JoroTheFootballPlayer\bin\Debug\P15.JoroTheFootballPlayer.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P15.JoroTheFootballPlayer\bin\Debug\P15.JoroTheFootballPlayer.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P15.JoroTheFootballPlayer\bin\Debug\P15.JoroTheFootballPlayer.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P15.JoroTheFootballPlayer\obj\Debug\P15.JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P15.JoroTheFootballPlayer\obj\Debug\P15.JoroTheFootballPlayer.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P15.JoroTheFootballPlayer\obj\Debug\P15.JoroTheFootballPlayer.pdb

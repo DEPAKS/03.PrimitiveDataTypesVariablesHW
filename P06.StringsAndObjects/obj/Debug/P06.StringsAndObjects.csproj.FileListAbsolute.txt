@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P06.StringsAndObjects\bin\Debug\P06.StringsAndObjects.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P06.StringsAndObjects\bin\Debug\P06.StringsAndObjects.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P06.StringsAndObjects\bin\Debug\P06.StringsAndObjects.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P06.StringsAndObjects\obj\Debug\P06.StringsAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P06.StringsAndObjects\obj\Debug\P06.StringsAndObjects.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P06.StringsAndObjects\obj\Debug\P06.StringsAndObjects.pdb

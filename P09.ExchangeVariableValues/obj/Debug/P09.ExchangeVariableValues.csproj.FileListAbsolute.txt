@@ -1,0 +1,6 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P09.ExchangeVariableValues\bin\Debug\P09.ExchangeVariableValues.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P09.ExchangeVariableValues\bin\Debug\P09.ExchangeVariableValues.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P09.ExchangeVariableValues\bin\Debug\P09.ExchangeVariableValues.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P09.ExchangeVariableValues\obj\Debug\P09.ExchangeVariableValues.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P09.ExchangeVariableValues\obj\Debug\P09.ExchangeVariableValues.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P09.ExchangeVariableValues\obj\Debug\P09.ExchangeVariableValues.csprojResolveAssemblyReference.cache

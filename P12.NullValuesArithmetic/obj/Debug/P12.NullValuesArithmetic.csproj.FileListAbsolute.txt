@@ -1,0 +1,5 @@
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P12.NullValuesArithmetic\bin\Debug\P12.NullValuesArithmetic.exe.config
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P12.NullValuesArithmetic\bin\Debug\P12.NullValuesArithmetic.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P12.NullValuesArithmetic\bin\Debug\P12.NullValuesArithmetic.pdb
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P12.NullValuesArithmetic\obj\Debug\P12.NullValuesArithmetic.exe
+C:\Users\stoyandi\Documents\Visual Studio 2013\Projects\C# August Course\03.PrimitiveDataTypesVariablesHW\P12.NullValuesArithmetic\obj\Debug\P12.NullValuesArithmetic.pdb
